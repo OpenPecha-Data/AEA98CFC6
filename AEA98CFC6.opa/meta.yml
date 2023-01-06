@@ -1,0 +1,19 @@
+id: AEA98CFC6
+title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+type: translation
+pechas:
+- I05E9E70A
+- I891E940E
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:54:37.909747
+  last_modified_at: 2023-01-04 11:54:37.909754
+  collections:
+  - Fourteenth Karmapa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I05E9E70A/BB94: '7254'
+  I891E940E/0A47: '7254'
